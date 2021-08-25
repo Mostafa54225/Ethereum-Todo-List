@@ -5,7 +5,6 @@ import TodoListabi from './contracts/TodoList.json'
 import Navbar from './Navbar'
 
 function App() {
-  
 
   useEffect(() => {
     loadWeb3()
